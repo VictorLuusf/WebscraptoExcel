@@ -38,7 +38,7 @@ https://www.anaconda.com/
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-You can use these Juypter Notebooks to teach yourself how to perform webscrapping and experiment on scrapping other data from websites on your own.
+You can use this Juypter Notebooks to teach yourself how to perform webscraping and convert it into an excel spreadsheet. This notebook also replaces several column names. The resulting output concatenates the dataframes for the 0-17, 18-34, 35-49, 50-64, 65-79 and 80+ age demographic data tables into one tab on the spreadsheet. 
 
 ## Future Versions
-I plan to work on a new version of this webscrapper to include moving this data into a Database. I'm also planning on demonstrating turning that data into a data frame with pandas and performing some analysis. I might even turn it into a separate project. If I do, I will provide a link to it here.
+I plan to work on a new version of this webscrapper to include moving this data into a Database.
